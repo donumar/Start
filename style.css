@@ -11,7 +11,7 @@ body {
 
 hr {
   max-width: 65px;
-  border-width: 3px;
+  border-width: 30px;
   border-color: #F05F44; 
 }
 
@@ -27,7 +27,7 @@ header.startup {
 }
 
 header.startup hr {
-  margin-top: 200px;
+  margin-top: 100px;
   margin-bottom: 30px; 
 }
 
@@ -36,9 +36,9 @@ header.startup h1 {
 }
 
 .btn {
-  font-weight: bold;
-
-  border-radius: 300px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 10px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -48,7 +48,7 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #ee4b08; }
 
 .btn-primary:hover {
   background-color: #ee4b08;
